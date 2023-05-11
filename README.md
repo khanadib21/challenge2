@@ -15,8 +15,8 @@ The task for module 2 challenge was to create a code for a webpage from scratch.
 - [License](#license)
 - [How To Contribute](#how-to-contribute)
 ## Website Preview
-[Developer Website Link](https://khanadib21.github.io/Refactoring-Code/)
-![Developer Portfolio Website](./Advanced-CSS-Challenge/webpagescreenshot.jpg)
+[Developer Website Link](https://khanadib21.github.io/challenge2/)
+![Developer Portfolio Website](./assets/images/webpagescreenshot.jpg)
 ## Credits
 NOTE: Click preview pictures to navigate to the referenced site
 ### CSS Information
