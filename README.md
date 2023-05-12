@@ -20,15 +20,15 @@ The task for module 2 challenge was to create a code for a webpage from scratch.
 ## Credits
 NOTE: Click preview pictures to navigate to the referenced site
 ### CSS Information
-[![Cascading Style Sheets Information](assets/images/CSS.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Cascading Style Sheets Information](https://developer.mozilla.org/en-US/docs/Web/CSS)
 ### CSSBox Information
-[![CSS Box Model Information](assets/images/CSS.png)](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+[![CSS Box Model Information](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 ### Git Cheat Sheet (pdf)
-[![GitHub Cheat Sheet](assets/images/GitCheatSheet.png)](https://education.github.com/git-cheat-sheet-education.pdf)
+[![GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 ### Git Flow Process
-[![Github Flow](assets/images/GitFlow.png)](https://docs.github.com/en/get-started/quickstart/github-flow)
+[![Github Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 ### HTML Reference
-[![HTML Definition](assets/images/HTMLReference.png)](https://www.w3schools.com/tags/tag_meta.asp)
+[![HTML Definition](https://www.w3schools.com/tags/tag_meta.asp)
 ## Thank you all for the help, instructors, TA's and peers. The lectures, activities and study group sessions have helped me to learn a lot better.
 ## License
 MIT License

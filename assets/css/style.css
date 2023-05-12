@@ -95,3 +95,10 @@ section {
     justify-content: space-between;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+@media screen and (max-width: 768px) {
+    header,
+    section {
+      flex-direction: column;
+      padding-right: 0;
+    }
